@@ -1,4 +1,4 @@
-#ChatGPT Usage Analysis - Ethics Class Project
+# ChatGPT Usage Analysis - Ethics Class Project
 This project was undertaken as part of our Ethics in Technology class to explore the usage patterns of AI tools like ChatGPT among students. The goal was to ethically collect and analyze student data, ensuring privacy and consent, and to present insights using Python and its data analysis libraries.
 
 Project Overview
